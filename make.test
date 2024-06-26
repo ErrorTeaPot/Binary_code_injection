@@ -1,0 +1,2 @@
+isos_inject.o: src/isos_inject.c include/isos_inject.h
+arg_parser.o: src/arg_parser.c include/isos_inject.h
